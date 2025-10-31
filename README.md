@@ -81,7 +81,7 @@ B.Tech in AI & ML | Passionate about AI, Data Analysis & Real-World Projects.
 
 📧 mukultiwari2003@gmail.com 
  
-🌐 [GitHub Profile](https://github.com/MUKUL-TIWARI/MUKUL-TIWARI)
+🌐 https://github.com/MUKUL-TIWARI/MUKUL-TIWARI
 
 
 📜 License
