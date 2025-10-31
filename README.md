@@ -17,14 +17,21 @@ An interactive AI-powered avatar that listens, speaks, and moves its mouth using
 ⚙️ Modular Design — Easy to extend and improve
 
 🧩 Tech Stack
+
 Component Technology Used
+
 AI Model: Meta LLaMA
+
 Voice Recognition: speech_recognition
+
 Text-to-Speech: pyttsx3 or gTTS
+
 Avatar Animation: MoviePy, OpenCV
+
 Backend Logic: Python
+
 Environment: Local (can be deployed on Flask later)
-'''
+```
 📁 Project Structure
 ai-avatar-llama/
 │
@@ -35,7 +42,7 @@ ai-avatar-llama/
 ├── lip_sync.py             # Animates mouth movement
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
-'''
+```
 
 ⚙️ Installation
 1️⃣ Clone the Repository
