@@ -22,7 +22,7 @@
 🧩 <b>Tech Stack</b>
 ```
 
-Component & Technology Used.....
+Component & Technology Used...
 
 AI Model             Meta LLaMA
 
