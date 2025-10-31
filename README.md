@@ -79,7 +79,7 @@ The avatar’s mouth moves in sync with the generated audio
 Mukul Tiwari
 B.Tech in AI & ML | Passionate about AI, Data Analysis & Real-World Projects.
 
-📧 [Email](mailto:mukultiwari2003@gmail.com) 
+📧 mukultiwari2003@gmail.com 
  
 🌐 [GitHub Profile](https://github.com/MUKUL-TIWARI/MUKUL-TIWARI)
 
