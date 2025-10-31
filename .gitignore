@@ -1,0 +1,41 @@
+# 🧠 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# 🧩 Virtual environment
+venv/
+.env/
+
+# ⚙️ Configuration or secret files
+*.env
+config.json
+secrets.json
+token.txt
+api_keys.txt
+
+# 🤖 Model weights / HuggingFace downloads
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+
+# 📷 Media cache
+face_scan.jpg
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# 🗂️ System / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 🧩 HuggingFace cache folders
+~/.cache/
+huggingface/
+transformers_cache/
