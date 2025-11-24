@@ -5,21 +5,21 @@
   Powered by <b>LLaMA</b>, <b>MoviePy</b>, <b>OpenCV</b>, and <b>Text-to-Speech</b> technologies.
 </p>
 
-🌟 <b>Features</b>
+ <b>Features</b>
 
-.🎤 Voice Input — Speak to your AI avatar directly using a microphone
+. Voice Input — Speak to your AI avatar directly using a microphone
 
-.💬 LLaMA Model — Generates intelligent, human-like responses
+. LLaMA Model — Generates intelligent, human-like responses
 
-.🗣️ Voice Output — The avatar replies using realistic text-to-speech
+. Voice Output — The avatar replies using realistic text-to-speech
 
-.🧏 Lip-Sync Animation — Mouth movement synced with generated audio
+. Lip-Sync Animation — Mouth movement synced with generated audio
 
-.🧍 Custom Avatar — Add your own image or animated character face
+. Custom Avatar — Add your own image or animated character face
 
-.⚙️ Modular Design — Easy to extend and improve
+. Modular Design — Easy to extend and improve
 
-🧩 <b>Tech Stack</b>
+ <b>Tech Stack</b>
 ```
 
 Component & Technology Used...
@@ -36,7 +36,7 @@ Backend Logic        Python
 
 Environment          Local (can be deployed on Flask later)
 ```
-📁 <b>Project Structure</b>
+ <b>Project Structure</b>
 ```
 ai-avatar-llama/
 │
@@ -49,7 +49,7 @@ ai-avatar-llama/
 └── README.md               # Project documentation
 ```
 
-⚙️ <b>Installation</b>
+ <b>Installation</b>
 
 1️⃣ Clone the Repository
 ```
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-🧠 <b>How It Works</b>
+ <b>How It Works</b>
 
 1. The program listens to your voice input
 
@@ -76,31 +76,31 @@ python main.py
 
 4. The avatar’s mouth moves in sync with the generated audio
 
-🖼️ <b>Demo Screenshot</b>
+ <b>Demo Screenshot</b>
 
 (You can later add your project image here — example below)
 ```
 ![AI Avatar Demo](./assets/demo.png)
 ```
 
-🚀 <b>Future Improvements</b>
+ <b>Future Improvements</b>
 
-.🌐 Add a web interface (Flask or React frontend)
+. Add a web interface (Flask or React frontend)
 
-.🧍 Add facial expressions and head movement
+. Add facial expressions and head movement
 
-.🗣️ Support for multiple languages (English, Hindi, Japanese, etc.)
+. Support for multiple languages (English, Hindi, Japanese, etc.)
 
-.☁️ Integrate with cloud-hosted AI models
+. Integrate with cloud-hosted AI models
 
-🧑‍💻 <b>Author</b>
+ <b>Author</b>
 
 Mukul Tiwari<br>
-🎓 B.Tech in AI & ML (Pursuing) | Passionate about AI, Data Analysis & Real-World Projects.
+ B.Tech in AI & ML (Pursuing) | Passionate about AI, Data Analysis & Real-World Projects.
 
-📧 mukultiwari2003@gmail.com 
+ mukultiwari2003@gmail.com 
  
-🌐 https://github.com/MUKUL-TIWARI/MUKUL-TIWARI
+ https://github.com/MUKUL-TIWARI/MUKUL-TIWARI
 
 
 📜 <b>License</b>
