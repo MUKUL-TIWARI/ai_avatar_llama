@@ -1,10 +1,18 @@
-<h1 align="center">🤖 AI Avatar LLaMA</h1>
 
-<p align="center">
-  <b>An interactive AI-powered avatar that listens, speaks,  in real time.</b><br>
-  Powered by <b>LLaMA</b>, <b>MoviePy</b>, <b>OpenCV</b>, and <b>Text-to-Speech</b> technologies.
-</p>
+![status](https://img.shields.io/badge/Status-Ongoing%20Development-blue?style=flat-square)
 
+# 🤖 AI Avatar LLaMA
+
+A fully interactive AI-powered avatar that listens, speaks, and interacts in real-time.  
+Built using LLaMA, Whisper, OpenCV, Lip-Sync animation, and Text-to-Speech technologies.
+
+---
+
+## 🚧 Project Status: In Progress
+This project is currently under development.  
+I am working on multiple AIML and cybersecurity projects, so new features and updates will be added gradually.
+
+---
  <b>Features</b>
 
 . Voice Input — Speak to your AI avatar directly using a microphone
@@ -78,7 +86,7 @@ python main.py
 
  <b>Demo Screenshot</b>
 
-(You can later add your project image here — example below)
+( project image will be added later)
 ```
 ![AI Avatar Demo](./assets/demo.png)
 ```
@@ -96,7 +104,7 @@ python main.py
  <b>Author</b>
 
 Mukul Tiwari<br>
- B.Tech in AI & ML (Pursuing) | Passionate about AI, Data Analysis & Real-World Projects.
+ B.Tech in AI & ML (Pursuing) 
 
  mukultiwari2003@gmail.com 
  
