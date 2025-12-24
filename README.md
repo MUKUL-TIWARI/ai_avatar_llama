@@ -1,7 +1,7 @@
 
 ![status](https://img.shields.io/badge/Status-Ongoing%20Development-blue?style=flat-square)
 
-# 🤖 AI Avatar LLaMA
+#  AI Avatar LLaMA
 
 A fully interactive AI-powered avatar that listens, speaks, and interacts in real-time.  
 Built using LLaMA, Whisper, OpenCV, Lip-Sync animation, and Text-to-Speech technologies.
